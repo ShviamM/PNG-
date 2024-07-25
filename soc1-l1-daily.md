@@ -11,17 +11,17 @@
 mindmap
   root((daily-checks))
     Health
-      Nutzung Workbook<br />"Analytics Health & Audit"
-        Kontrolle "Overview"
-        Kontrolle "Health"
-    Kostenkontrolle
+      Use of Workbook<br />"Analytics Health & Audit"
+        Check "Overview"
+        Check "Health"
+    Cost control
       Nutzung Workbook <br />"Microsoft Sentinel Cost"
     Incidents
-      Nutzung "Security Operations Efficiency" <br />Workbook
+      Use of "Security Operations Efficiency" <br />Workbook
     Data Connector
-      1.Kontrolle der connected Quellen
-          Nutzung Workbook "Workspace Usage Report"
-            Prüfung Tab "Regular Checks"
+      1. Check of connected sources
+          Use of Workbook "Workspace Usage Report"
+            Check tab "Regular Checks"
     Workspace Manager
       Repo Status okay?
 ```
