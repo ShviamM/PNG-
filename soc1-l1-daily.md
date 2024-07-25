@@ -15,7 +15,7 @@ mindmap
         Check "Overview"
         Check "Health"
     Cost control
-      Nutzung Workbook <br />"Microsoft Sentinel Cost"
+      Use of Workbook <br />"Microsoft Sentinel Cost"
     Incidents
       Use of "Security Operations Efficiency" <br />Workbook
     Data Connector
